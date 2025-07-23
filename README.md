@@ -33,3 +33,9 @@ An AI-powered farming advisory system that provides sustainable farming recommen
 ## Deployment
 
 This project is deployed on Render.com. Visit the live demo at [https://sustainable-farming-ai.onrender.com](https://sustainable-farming-ai.onrender.com)
+
+Demo video-
+[The_Ying_Yang_Club.webm](https://github.com/user-attachments/assets/08eb1c9c-f10f-47b6-958a-e599ebc88015)
+
+Pitch Deck-
+[Submit.pptx](https://github.com/user-attachments/files/21388492/Submit.pptx)
